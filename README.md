@@ -4,7 +4,7 @@ Portfolio Sample
 ポートフォリオのサンプルです。
 
 ## デモ
-[webサイトをみる](https://maeda-portfolio-sample.herokuapp.com/)
+[webサイトを見る](https://maeda-portfolio-sample.herokuapp.com/)
 
 [Portfolio Sample ](https://user-images.githubusercontent.com/85050143/122638650-5040ee00-d130-11eb-8527-6d468625f4c3.png)
 
